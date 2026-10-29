@@ -1,11 +1,24 @@
-# SEMA
+Official Repository of
 
-**S**imple yet **E**ffective Learning for **M**ulti-Turn Jailbreak **A**ttacks
-
+**SEMA**: **S**imple yet **E**ffective Learning for **M**ulti-Turn Jailbreak **A**ttacks
 [![Paper](https://img.shields.io/badge/arXiv-2602.06854-b31b1b.svg)](https://arxiv.org/abs/2602.06854)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Venue](https://img.shields.io/badge/ICLR-2026-green.svg)](https://arxiv.org/abs/2602.06854)
+
+and
+
+**SEMA-Auto**: **S**ighted and **E**fficient **M**ulti-Turn **A**ttack with **Auto**nomy
+[![Paper](https://img.shields.io/badge/arXiv-2602.06854-b31b1b.svg)](https://arxiv.org/abs/2610.35743)
+[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
+# SEMA-Auto
+The code is currently undergoing review for release and is coming soon.
+
+
+# SEMA
 
 SEMA is a framework for training open-loop, response-agnostic multi-turn jailbreak attackers via **Prefilling Self-Tuning** and **Reinforcement Learning with Intent-drift-aware Reward**. Unlike closed-loop methods, SEMA eliminates the need for real-time victim-model feedback during attack generation.
 
