@@ -1,6 +1,7 @@
 Official Repository of
 
 **SEMA**: **S**imple yet **E**ffective Learning for **M**ulti-Turn Jailbreak **A**ttacks
+
 [![Paper](https://img.shields.io/badge/arXiv-2602.06854-b31b1b.svg)](https://arxiv.org/abs/2602.06854)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -9,6 +10,7 @@ Official Repository of
 and
 
 **SEMA-Auto**: **S**ighted and **E**fficient **M**ulti-Turn **A**ttack with **Auto**nomy
+
 [![Paper](https://img.shields.io/badge/arXiv-2602.06854-b31b1b.svg)](https://arxiv.org/abs/2610.35743)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
